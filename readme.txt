@@ -1,2 +1,2 @@
-This is C version readme!
+This is D version readme!
 remeber me!
